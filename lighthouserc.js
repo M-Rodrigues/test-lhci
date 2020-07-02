@@ -3,7 +3,8 @@ module.exports = {
     collect: {
       url: [
         'https://www.leggio.com.br',
-        'https://www.leggio.com.br/market-analytics'
+        'https://storetheme.vtex.com/',
+        'https://storetheme.vtex.com/?workspace=lhtest'
       ],
       numberOfRuns: 3
     },
