@@ -2,7 +2,8 @@ module.exports = {
   ci: {
     collect: {
       url: [
-        'https://www.leggio.com.br'
+        'https://www.leggio.com.br',
+        'https://www.leggio.com.br/market-analytics'
       ],
       numberOfRuns: 3
     },
